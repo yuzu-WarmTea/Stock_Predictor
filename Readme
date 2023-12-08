@@ -1,0 +1,5 @@
+cd myvenv
+Scripts/activate
+
+Running app
+streamlit run main.py
